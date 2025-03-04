@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Ojha</h1>
 <h3 align="center">A passionate learner exploring the world of web development. I'm always curious about new technologies and eager to improve my coding skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash21-04&label=Profile%20views&color=0e75b6&style=flat" alt="yash21-04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash21-04" alt="yash21-04" /></a> </p>
 
