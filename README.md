@@ -2,9 +2,6 @@
 <h3 align="center">A passionate learner exploring the world of web development. I'm always curious about new technologies and eager to improve my coding skills</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash21-04" alt="yash21-04" /></a> </p>
-
 - 📫 How to reach me **yashshaileshojha9915@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
